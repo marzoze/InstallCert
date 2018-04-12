@@ -54,7 +54,7 @@ import java.security.cert.X509Certificate;
 public class InstallCert {
 
 
-    public static void main(String[] args) throws Exception { // MAIN METHOD
+    public static void main(String[] args) throws Exception { // MAIN METHOD 1
         String host;
         int port;
         char[] passphrase;
